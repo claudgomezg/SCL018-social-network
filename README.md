@@ -45,11 +45,11 @@ Por último, podrá desloguearse de la página al pulsar un ícono de salida en 
 
 *Landing Desktop*
 
-![](src/resources/images/high-quality-prototype-1.png)
+![](src/resources/images/high-quality-prototype-1.PNG)
 
 *Post Mobile*
 
-![](src/resources/images/high-quality-prototype-2.png)
+![](src/resources/images/high-quality-prototype-2.PNG)
 
 ## 5. Test de usabilidad 
 
